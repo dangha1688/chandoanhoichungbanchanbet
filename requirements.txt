@@ -1,6 +1,7 @@
 streamlit
 opencv-python-headless
-matplotlib
 numpy
 pandas
+matplotlib
 scikit-learn
+tensorflow
